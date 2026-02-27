@@ -1,6 +1,6 @@
 # data-science-assignments
 
-## ds_assignment_60.ipynb Summary
+## ds_assignment_61.ipynb Summary
 
 - Calculates statistics: mean, min, max, correlation
 - Performs numpy operations: min/max, percentiles, mean, std, z-score
